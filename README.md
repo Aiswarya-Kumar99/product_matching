@@ -1,5 +1,5 @@
 ### 🛍️ Product Matching: Jaccard, TF-IDF, and DeBERTa Approaches
-This repository implements and compares three product matching methods on the WDC Product Matching Dataset. The task is to determine whether two product listings refer to the same real-world item. We evaluate methods ranging from basic token similarity to contextual deep learning models.
+This repository implements and compares three product matching methods on the WDC Product Matching Dataset: https://webdatacommons.org/largescaleproductcorpus/wdc-products/. The task is to determine whether two product listings refer to the same real-world item. We evaluate methods ranging from basic token similarity to contextual deep learning models.
 
 ## 📂 Repository Structure
 
